@@ -1,3 +1,5 @@
+Project uses: Java, JavaScript, HTML, and CSS files
+
 How to install:
 - First download the .zip or .WAR file
 - Once download select which file to import
